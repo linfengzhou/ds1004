@@ -1,0 +1,20 @@
+lz1335
+*   51f7d4a Merge branch 'node1' into node2
+|\  
+| *   00db978 Merge branch 'node3' into node1
+| |\  
+| | * 66d83b3 4th 1st on n3
+* | |   268c16b Merge branch 'node4' into node2
+|\ \ \  
+| |/ /  
+|/| |   
+| * | 899571d 5th 1st on n4
+* | |   e493882 Merge branch 'node1' into node2
+|\ \ \  
+| |/ /  
+|/| /   
+| |/    
+| * 10c22e7 2nd 1st on n1
+* | 14b2a15 3rd 1st on n2
+|/  
+* e430a85 1st on master
