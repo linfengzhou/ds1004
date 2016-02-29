@@ -1,0 +1,20 @@
+tz869
+*   e53ce01 9th commit Merge branch 'branch_2' into branch_1
+|\  
+| *   bb02808 7th commit Merge branch 'branch_3' into branch_2
+| |\  
+| | * 5af5ce3 4th commit (1st on branch 3)
+* | |   0fc2b7d 8th commit Merge branch 'branch_1' into branch_4
+|\ \ \  
+| |/ /  
+| * |   63650ec 6th commit (Merge branch 'branch_2' into branch_1)
+| |\ \  
+| | |/  
+| |/|   
+| * | 77091fa 2nd commit (1st on branch 1)
+* | | d84559e 5th commit (1st on branch 4)
+| |/  
+|/|   
+* | a4f0697 3rd commit (1st on brand 2)
+|/  
+* 8abfcc2 1st commit (1st on master)
