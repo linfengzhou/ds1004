@@ -1,0 +1,19 @@
+sz1795
+*   2eadb3b Merge branch 'node4' into node3
+|\  
+| *   4a280e8 Merge branch 'node2' into node4
+| |\  
+| * | 6f6a529 5th commit, 1st on node
+* | |   96bf758 Merge branch 'node1' into node3
+|\ \ \  
+| | |/  
+| |/|   
+| * |   ee0850a Merge branch 'node2' into node1
+| |\ \  
+| | |/  
+| | * 0438551 3rd commit, 1st on node2
+* | | c0e08e4 4th commit, 1st on node3
+|/ /  
+* | 205f57a 2nd commit, 1st on node1
+|/  
+* 69787f9 1st commit, 1st on master
